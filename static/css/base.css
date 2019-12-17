@@ -1,0 +1,56 @@
+.logo{
+    position: absolute;
+    top: -59px;
+    z-index: 100;
+    left:5px;
+}
+
+.carousel-inner{
+    position: absolute;
+    z-index: -1;
+}
+form{
+    margin-left:45%;
+    background: rgba(0,0,0,0.2);
+    border: 1px solid transparent;
+    position: absolute;
+    margin-top: 50px;
+    padding: 20px;
+    color: black;
+    font-weight: 800;
+    font-family: cursive;
+    font-size: 19px;
+}
+.marker-img{
+    height: 26px;
+    width: 30px;
+    float: right;
+    position: relative;
+    top: 41px;
+    z-index: 2;
+    left: -6px;
+    cursor:pointer;
+}
+.cross-img{
+    height: 26px;
+    width: 30px;
+    float: right;
+    position: relative;
+    top: 41px;
+    z-index: 1;
+    left: 24px;
+    cursor:pointer;
+
+}
+span.LongiValue{
+    font-weight: 400;
+    font-family: cursive;
+    font-size: 10px;
+    color: cadetblue;
+}
+form div span.LattiValue{
+    font-weight: 400;
+    font-family: cursive;
+    font-size: 10px;
+    color: cadetblue;
+}

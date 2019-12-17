@@ -1,2 +1,57 @@
 Crop,3,18,30,3,8,350,750,L,L,M,12 days, 12 days, 34 days, 50 days, this is a comment
-Bajra,3,18,30,3,8,350,750,L,L,M,12 days, *, 34 days, 50 days,*
+Bajra,3,18,30,3,8,350,750,L,L,M,10,20,25,75,The ideal temperature for Bajra cultivation is between 20 °C to 30 °C.
+Banana,4,15,35,6.5,8.5,450,750,M,VL,VL,10,10,24,365,Extreme clayey  Sandy soil  Saline soil and Calcareous soil is not suitable for Banana cultivation.
+Barley,4,12,32,3,8,800,1100,VL,VL,M,5,20,30,180,Barley grass grows to about 45cm in height
+Bean,2,14,32,5.5,6.5,300,500,L,VL,M,28,55,90,140,Maturity is typically 55–60 days from planting toharvest
+Black pepper,6,23,33,5.5,6.5,1200,2500,H,VL,M,70,71,81,270,It grows successfully between 20° North and South latitude and from sea level up to 1500 m above sea level.
+Blackgram,2,23,35,5,7,500,700,L,H,VL,7,10,25,70,Black gram is an erect  fast-growing annual  herbaceous legume reaching 30-100 cm in height
+Bottle Gourd,2,24,27,6.5,7.5,400,650,VL,VL,VL,10,4,10,120,The crop can tolerate low temperatures but extreme cool temperatures will retard growth and frost will kill
+Brinjal,3,15,32,5.5,6.5,600,1000,VL,L,M,15,12,40,75, The plants usually grow 45 to 60 cm high and bears long to oval shaped  purple or greenish fruits. 
+Cabbage,4,12,30,5.5,6.5,300,600,M,VL,H,10,12,*,100,A pH range of 6.0-6.5 is considered as optimum for growing cabbage. Plants growing in saline soils are prone diseases. 
+Cardamom,8,18,35,4.5,7,1200,4000,H,M,M,35,12,22,750,15-20 tonnes of FYM is incorporated about 4 weeks before transplanting
+Carrot,4,7,23,5.5,7,750,1000,M,H,M,10,5,*,75,Carrot need to be thinned early and kept weed free
+Castor seed,6,20,30,5,8.5,500,800,VL,H,VL,*,15,40,155,Scheduling of irrigation at 50mm CPE result in higher yield
+Cauliflower,4,12,30,6,7,100,300,M,M,M,35,40,45,110,It can grow upto 8 to 30 inches
+Chillies,3,18,40,5.5,7,625,1500,VL,VL,L,6,11,36,80,Black soil is comfortable because it contains moisture for longer period
+Coriander,3,15,30,6,10,750,1000,L,L,M,15,45,55,60,Standard irrigation is done more than 6-7 times
+Cotton,4,15,35,6,8,500,1100,M,VL,VL,25,40,81,180,cotton uses 25% of the worlds pesticides.
+Cowpea,5,22,35,5,7,700,1100,VL,VL,VL,15,25,45,100,Each plant received a total of 72L of irrigation water
+Drum Stick,4,20,30,6,7,750,2000,M,L,H,10,20,100,210,Cost of cultivation and maintainenance is lesser than other commercial crops
+Garlic,4,10,30,6,7,500,800,VL,M,H,25,55,*,*,More than 50% of production is done in gujrat and Madhya Pardesh(weed free)
+Ginger,8,15,35,5,7,1200,1800,VL,M,VL,20,20,45,300,ginger requires 1300-1500 mm of water during its crop cycle
+Gram,4,20,30,5,7,600,900,VL,VL,H,10,55,25,145,It occupies 38% of area under pulses
+Grapes,4,15,35,6.5,8.5,650,850,VL,H,L,10,17,*,1000,Grapes in India are mostly grown in semi-arid dry areas with inadequate rainfall and high transpiration losses. 
+Groundnut,3,20,35,5,7,500,750,VL,VL,VL,10,20,38,140,Irrigation repeat every 20 days upto 120 days
+Guar seed,3,25,35,7,8,100,300,L,L,L,7,8,*,70, Guar seeds have been produced with 2650 m3/ha average water supply
+Horse-gram,6,20,30,4.5,8.2,500,1000,M,M,VL,6,9,25,55,*
+Jowar,3,18,32,6,7.5,400,1000,VL,M,M,15,25,30,75,Jowar​ Sorghum popularly known as jowar is the most important food and fodder crop of dry land agriculture. 
+Jute,4,24,38,6,7.5,200,600,H,L,L,30,34,31,100,Irrigation occur every 15 days
+Khesari,4,10,25,6,8,400,700,VL,M,M,20,60,35,150,Rai's harvest in March yielded around 100 quintal of khesari in 2019
+Lady Finger,2,20,35,6,7,800,1200,VL,L,M,15,11,25,55,Pre-soaking Irrigation also done before sowing is beneficial 
+Lentil,3,15,25,6,8,500,750,L,M,M,10,45,25,110,*
+Linseed,5,10,27,5,7,450,750,L,L,M,15,*,20,135,The oilseed crop needs about 25 to 30 oC during germination and vegetative phase and 15 to 20 oC during seed formation.
+Maize,6,21,35,5.5,7.5,500,1000,VL,VL,VL,17,42,*,110,*
+Mesta,4,20,35,4.5,7.8,600,900,M,VL,M,*,*,*,*,No info. found .. Look at the mannual for more 
+Moong(Green Gram),2,20,40,6.2,7.2,600,900,VL,L,VL,*,*,*,70,The cost of production is lower as it be sown without soil tillage immediately after harvesting winter wheat crop.
+Moth,3,24,34,4,9,450,750,M,M,L,*,*,*,*,No information to show.
+Onion,4,18,30,6,7.5,500,800,H,L,VL,5,40,*,150,When planting onion sets. Don't bury them more than 1 inch under the soil. For sets or transplants space plants 4 to 5 inches apart in rows 12 to 18 inches apart
+Orange,4,15,30,6,8,400,700,VL,L,M,*,*,*,*,Orange seeds are quite easy to germinate but a tree grown from an orange seed can take anywhere from seven to 15 years to bear fruit.
+Papaya,12,20,30,6,7,1500,2500,VL,H,VL,10,200,*,320,*
+Peas & beans (Pulses),3,15,30,6,7.5,300,600,M,M,VL,12,55,*,*,Pulse crops are one of the most sustainable crops a farmer can grow.
+Potato,3,14,25,5.2,6.4,300,600,VL,VL,VL,7,35,*,110,The potato tubers grow underground and generally located in the top 25 cm (10 in) of the soil. 
+Raddish,2,10,30,6,7.5,500,1000,VL,VL,VL,5,14,*,65,Radish seeds are ready to harvest when you can hear the seeds rattle around in the pod when you shake it.
+Ragi,4,20,30,5,7,700,1200,VL,M,VL,15,25,37,156,*
+Rice,5,16,30,5,9,1000,2000,M,M,VL,30,40,45,140,*
+Safflower,4,15,35,5,8,600,1000,M,M,L,14,64,*,*,People can use it topically to treat dry skin and it is safe to use when cooking at high temperatures.
+Sannhamp,5,20,35,5.5,7,400,1000,VL,M,M,0,*,*,220,Harvesting should be done at the flowering stage (60-90 days after sowing) since the fibre is thinner at this stage. Harvesting can be done by hand or with a mechanical harvester.
+Sesamum,4,20,35,5.5,8,500,800,VL,L,M,15,80,*,136,Sowing is done during last week of June to first week of July when atmospheric temperature is about 25-27 C
+Soyabean,4,22,35,6,7,450,700,M,M,M,14,*,*,65, Soybeans are rarely attacked by disease. Rotate beans so that they do not grow in the same location more than every three years.
+Sugarcane,12,25,38,5,8.5,900,1800,VL,H,L,30,130,160,515,Depending upon the variety and sowing time it takes about 12 to 18 months to mature
+Sunflower,4,20,37,6,7.5,400,700,L,L,L,10,26,100,120,Cover and keep watered until seeds sprout in 7 to 10 days. 
+Sweet potato,5,15,30,5.5,6.5,750,1500,L,M,L,20,110,120,190,*
+Tapioca,5,22,35,5,7,700,1500,L,M,L,20,110,120,300,*
+Tomato,4,13,32,5.5,7.5,400,600,M,M,VL,15,38,66,95,'irrigation should be given 7-8 days interval during kharif' 'during rabi 10-12 days' and '5-6 days during summer'
+Turmeric,8,15,35,4.5,7.5,1500,2000,M,VL,VL,35,155,175,210,Weeding has to be done thrice at 60  90 and 120 days after plantingdepending upon weed intensity.
+Urad,3,25,35,5.5,7.5,600,1000,L,L,L,16,40,57,120,The crop should get irrigation at an interval of 10-15 days. 
+Varagu,4,20,35,5.5,6.5,1500,1800,VL,M,M,19,65,70,75,*
+Wheat,3,20,33,5,6.8,600,900,VL,L,VL,40,160,180,210,*

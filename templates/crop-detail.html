@@ -1,13 +1,17 @@
-{% extends 'base.html' %}
-
-
-{% block bodyBlock %}
-
-<table class="table table-bordered">
+{% load static %}
+<html>
+  <head><link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous"></head>
+  <body><table style="" class="table table-bordered">
     <tr><th>Process</th> <th>Required Time</th></tr>
     {% for key, value in data.items %} 
       <tr><td>{{key}} </td><td>{{value}}</td></tr>
     {% endfor %}
+    <tr><td><a href="/get-pdf?name={{cropName}}">Get Pdf Manual</a></td></tr>
 </table>
 
-{% endblock %}
+<img  style="background-size: cover; width: 40vw; margin-left: 30vw; margin-right: 30vw;" src="{% static 'Images/crops/' %}{{cropName}}.jpg" alt="{{key}}" />
+</body>
+</html>
+
+
+

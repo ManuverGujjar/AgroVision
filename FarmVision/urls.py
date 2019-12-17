@@ -17,14 +17,15 @@ from django.contrib import admin
 from django.urls import path
 from django.conf import settings
 from django.conf.urls.static import static
-from basicApp.views import home,example, result, cropDetails
+from basicApp.views import home,example, result, cropDetails, getPdf
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('',home,name = "home"),
     path('example',example,name = "example"),
     path('result',result,name = "result"),
-    path('crop-details', cropDetails, name = "crop-details")
+    path('crop-details', cropDetails, name = "crop-details"),
+    path('get-pdf', getPdf, name = "get-pdf")
 ]
 
 urlpatterns = urlpatterns + static(settings.STATIC_URL, document_root=settings.STATIC_ROOT)
